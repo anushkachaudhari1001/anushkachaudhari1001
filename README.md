@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=415&height=44&lines=coffee%2C%20code%20and%20sleep%20!!" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=415&height=44&lines=coffee%2C%20code%20and%20sleep%20!!" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
@@ -61,3 +61,4 @@ Code. Learn. Create. Repeat.
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/anushkachaudhari1001">anushkachaudhari1001</a></i></p>
+
